@@ -1,0 +1,91 @@
+# ArtisticComposition Human reference, LLM know these terms as Artistic Composition
+- Rule of Thirds
+- Symmetry
+- Asymmetry
+- Golden Ratio
+- Triangular Composition
+- Radial Composition
+- Diagonal Composition
+- Linear Composition
+- Central Composition
+- Framing
+- Leading Lines
+- Repetition
+- Rhythm
+- Negative Space
+- Positive Space
+- Balance (Symmetrical Balance, Asymmetrical Balance)
+- Visual Hierarchy
+- Focal Point
+- Foreground, Middleground, Background
+- Isolation
+- Juxtaposition
+- Overlapping
+- Parallax
+- Perspective (One-point, Two-point, Three-point)
+- Horizon Line
+- Vanishing Point
+- Spiral Composition
+- Grid Composition
+- Layering
+- Depth of Field
+- Tonal Contrast
+- Color Contrast
+- S-curve Composition
+- Z-curve Composition
+- Closed Composition
+- Open Composition
+- Dynamic Composition
+- Static Composition
+- Unity
+- Variety
+- Proximity
+- Alignment
+- Scale and Proportion
+- Emphasis
+- Movement
+- Flow
+- Harmony
+- Dissonance
+- Dominance
+- Subordination
+- Contrast
+- Pattern
+- Rhythmic Repetition
+- Ambiguity
+- Transparency
+- Opacity
+- Texture Gradient
+- Color Gradient
+- Visual Weight
+- Visual Direction
+- Visual Tension
+- Split Composition
+- Counterpoint
+- Echoing
+- Reflection
+- Refraction
+- Visual Echo
+- Contour
+- Gestalt Principles
+- Closure
+- Continuation
+- Figure-Ground Relationship
+- Proximity and Grouping
+- Similarity
+- Anomaly
+- Visual Balance
+- Visual Mass
+- Optical Center
+- Unity with Variety
+- Pathways
+- Framing Devices
+- Atmospheric Perspective
+- Chiaroscuro
+- Silhouette
+- Visual Depth Cues
+- Stacked Perspective
+- Planar Composition
+- Sequential Composition
+- Abstract Composition
+- Realistic Composition
